@@ -1,0 +1,7 @@
+예.
+인생 조진 사람임ㅂ니다
+
+<!---
+asaac214/asaac214 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
